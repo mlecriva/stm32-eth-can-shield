@@ -33624,7 +33624,7 @@
 	)
 	(symbol
 		(lib_id "Diode:BAT54J")
-		(at 535.94 207.01 0)
+		(at 535.94 207.01 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33635,7 +33635,7 @@
 		(fields_autoplaced yes)
 		(uuid "b6132e6e-795d-4253-bf0d-2868e20bcd95")
 		(property "Reference" "D1"
-			(at 535.6225 200.66 0)
+			(at 536.2575 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33645,7 +33645,7 @@
 			)
 		)
 		(property "Value" "BAT54J"
-			(at 535.6225 203.2 0)
+			(at 536.2575 203.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33655,7 +33655,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323F"
-			(at 535.94 211.455 0)
+			(at 535.94 202.565 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
